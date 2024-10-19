@@ -1,0 +1,18 @@
+.naf-bar{
+
+background-color: rgb(18, 26, 4);
+height: 80px;
+display: flex;
+justify-content: center;
+align-items: center;
+justify-content: space-around;
+flex: 1 1 110px;
+}
+
+.bar a{
+font-style: italic;
+font-size: x-large;
+color: white;
+text-decoration: none;
+}
+
